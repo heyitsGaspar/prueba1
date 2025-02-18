@@ -6,7 +6,7 @@ export default function Home() {
     <section className="flex flex-col items-center justify-center h-full text-center px-4 md:px-0">
     <h1 className="text-4xl md:text-5xl font-bold text-primary">Hello world</h1>
     <p className="text-gray-600 mt-2 font-montserrat font-bold text-lg md:text-xl">
-      Bienvenido a la plataforma Condde
+      Bienvenido a la plataforma Condde 4444444
     </p>
     <Button className="mt-4">Example button</Button>
   </section>
